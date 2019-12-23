@@ -18,6 +18,11 @@
     "cakephp/cakephp": "4.0.*"
   },
   "require-dev": {
+    "symfony/process":"^5.0",
+    "symfony/finder":"^5.0",
+    "symfony/filesystem":"^5.0",
+    "symfony/console":"^5.0",
+    "composer/composer":"dev-master",
     "phpunit/phpunit": "^8.0"
   },
   "autoload": {
